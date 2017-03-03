@@ -9,7 +9,11 @@ and
 David Getman and Paula Sanders' "Accessing Subscription-Based Electronic Resources"  
 <http://cnx.org/content/m12583/1.7/>
 
-Both were found using <http://www.oercommons.org>
+and
+David Getman and Paula Sanders' "Borrowing Resources through Interlibrary Loan"
+
+
+All were found using <http://www.oercommons.org>
 
 ---
 Just a quick reminder: the expectation is that your next essay will be supported by books and articles from Library subscription databases.
